@@ -13,7 +13,7 @@ spec:
     - containerPort: 8080
     env:
     - name: APP_COLOR
-      value: "green"
+      value: "red"
     resources: {}
   dnsPolicy: ClusterFirst
   restartPolicy: Always
